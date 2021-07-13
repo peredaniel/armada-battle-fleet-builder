@@ -24,6 +24,14 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 
 If you have any questions regarding privacy while using the Application, please contact us via email at [developer.pere.daniel.prieto@gmail.com](mailto:developer.pere.daniel.prieto@gmail.com).
 
+## Availability and compatibility
+
+[View in the AppStore](https://apps.apple.com/app/armada-battle-fleet-builder/id1575403964)
+
+This app is currently compatible with **iPhone and iPod devices running iOS 13 or higher**, and is available in the following stores:
+* Spain
+* United Kingdom
+
 ## Version history
 
 ### Version 1.0

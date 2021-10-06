@@ -14,7 +14,11 @@ This privacy policy governs your use of the software application _Armada Battle 
 
 ### What information does the Application obtain and how is it used?
 
-The app does not obtain any kind of information, neither from the device or the app usage.
+Starting at version 1.1, the Application compiles an error report whenever a crash occurs to help our Development team to identify and fix any issue faster. This process is automatically managed by _Firebase_. The information collected includes:
+* Stack traces and relevant Application state at the time of the crash.
+* Device and OS information to assist with debugging crashes.
+
+The information collected **does not include** any personal data or device data which could potentially identify the user or the device for any purposes. The information collected is meant for developer eyes only, and only to reproduce and fix the issue leading to the crash.
 
 ### Changes
 
@@ -33,6 +37,11 @@ This app is currently compatible with **iPhone and iPod devices running iOS 13 o
 * United Kingdom
 
 ## Version history
+
+### Version 1.1
+
+* Added support for iOS 15.
+* Added crash logging.
 
 ### Version 1.0
 
